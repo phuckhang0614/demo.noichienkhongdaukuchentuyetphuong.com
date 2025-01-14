@@ -5,6 +5,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php esc_url( bloginfo( 'pingback_url' ) ); ?>" />
+
+	<link rel="stylesheet" href="<?php bloginfo('template_directory');?>/css/main.css">
+		<?php if (wp_is_mobile()): ?>
+				<link rel="stylesheet" href="<?php bloginfo('template_directory');?>/css/mobile-main.css">
+		<?php endif; ?>
+
 	<?php wp_head(); ?>
 </head>
 <?php
