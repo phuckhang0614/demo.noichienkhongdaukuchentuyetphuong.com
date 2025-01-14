@@ -5,34 +5,34 @@ select.form-control {
 }
 
 .contactform-label {
-  font-family: "Mulish_NH", sans-serif!important;
+  font-family: "Mulish_NCKD", sans-serif!important;
   font-weight: bold;  
   font-size: 16px;
 }
 
 #contactform_name_fda26fd   {
-  font-family: "Mulish_NH", sans-serif;
+  font-family: "Mulish_NCKD", sans-serif;
   font-size: 16px;
   color: #000; 
   border: 1px solid #8f8f8f;
 }
 
 #contactform_address_fda26fd {
-  font-family: "Mulish_NH", sans-serif;
+  font-family: "Mulish_NCKD", sans-serif;
   font-size: 16px;
   color: #000; 
   border: 1px solid #8f8f8f;
 }
 
 #contactform_phone_fda26fd {
-  font-family: "Mulish_NH", sans-serif;
+  font-family: "Mulish_NCKD", sans-serif;
   font-size: 16px;
   color: #000; 
   border: 1px solid #8f8f8f;
 }
 
 #contactform_email_fda26fd {
-  font-family: "Mulish_NH", sans-serif;
+  font-family: "Mulish_NCKD", sans-serif;
   font-size: 16px;
   color: #000; 
   border: 1px solid #8f8f8f;
@@ -40,20 +40,20 @@ select.form-control {
 
 #contactform_message_fda26fd {
   border: 1px solid #8f8f8f;
-  font-family: "Mulish_NH",sans-serif;
+  font-family: "Mulish_NCKD",sans-serif;
   font-size: 16px;
   border: 1px solid #8f8f8f;
 }
 
 #contactform_purpose_fda26fd {
     border: 1px solid #8f8f8f;
-    font-family: "Mulish_NH",sans-serif;
+    font-family: "Mulish_NCKD",sans-serif;
     font-size: 16px;
     border: 1px solid #8f8f8f;
 }
 
 .wpcf7-not-valid-tip {
-    font-family: "Mulish_NH",sans-serif;
+    font-family: "Mulish_NCKD",sans-serif;
     font-size: 14px!important;
     font-weight: bold!important;
 }
@@ -63,7 +63,7 @@ select.form-control {
     color: #FFF;
     font-weight:bold;
     font-size: 16px;
-    font-family: "Mulish_NH",sans-serif;
+    font-family: "Mulish_NCKD",sans-serif;
 }
 
 /* End Contact Form*/
