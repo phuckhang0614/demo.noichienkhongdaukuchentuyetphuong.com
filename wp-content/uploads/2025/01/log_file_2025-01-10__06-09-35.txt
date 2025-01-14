@@ -1,0 +1,31 @@
+
+---Downloaded files---
+The import files for: Landing Elementor were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://demo.noichienkhongdaukuchentuyetphuong.com
+Data file = D:\xampp74\www\demo.noichienkhongdaukuchentuyetphuong.com/wp-content/uploads/2025/01/demo-content-import-file_2025-01-10__06-09-35.xml
+Widget file = D:\xampp74\www\demo.noichienkhongdaukuchentuyetphuong.com/wp-content/uploads/2025/01/demo-widgets-import-file_2025-01-10__06-09-35.json
+Customizer file = not defined!
+Redux files:
+pix_options -> D:\xampp74\www\demo.noichienkhongdaukuchentuyetphuong.com/wp-content/themes/essentials/inc/demo-content/sites/landing/landing-elementor-options.json 
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+PixFort Search - Search - Imported
+PixFort Promo Box - Call to action - Imported
+Tag Cloud - No Title - Imported
+PixFort Recent Posts - Recent Posts - Imported
+PixFort Categories - Categories - Imported
+PixFort Social Links - Social Links - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: pix_options finished successfully!
